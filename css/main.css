@@ -1832,8 +1832,8 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 108px;
-  height: 28px;
+  width: 138px;
+  height: 138px;
 }
 
 /* -------------------------------------------------------------------
@@ -3177,7 +3177,7 @@ html.no-csstransitions .hero-content {
 
 .footer-logo img {
   width: 138px;
-  height: 36px;
+  height: 138px;
 }
 
 /* -------------------------------------------------------------------
