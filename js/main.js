@@ -30,7 +30,7 @@
             // will first fade out the loading animation 
             $("#loader").fadeOut("slow", function() {
                 // will fade out the whole DIV that covers the website.
-                $("#preloader").delay(100).fadeOut("fast");
+                $("#preloader").delay(300).fadeOut("slow");
             }); 
             
             // for hero content animations 
@@ -78,7 +78,7 @@
     const ssAlertBoxes = function() {
 
         $('.alert-box').on('click', '.alert-box__close', function() {
-            $(this).parent().fadeOut(300);
+            $(this).parent().fadeOut(500);
         }); 
 
     };
