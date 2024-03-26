@@ -3049,6 +3049,9 @@ html.no-csstransitions .hero-content {
 .social-list__icon--facebook::before {
   background-image: url(../images/icons/social/icon-facebook.svg);
 }
+.social-list__icon--YouTube::before {
+  background-image: url(../images/icons/social/icon-youtube.svg);
+}
 
 .social-list__icon--twitter::before {
   background-image: url(../images/icons/social/icon-twitter.svg);
